@@ -1,0 +1,15 @@
+p {
+  color: yellow;
+  text-align: center;
+}
+body{
+  font-size: 35px;
+  font-family:monospace;
+  /*background-image: url("sky.jpg");*/
+  background-image:url("dinosaur.gif");
+  }
+  a {
+    color: yellow;
+
+
+  }

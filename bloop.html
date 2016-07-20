@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JS Example</title>
+    <script>
+      function myFunctIon() {
+        var img = document.getElementById("pic");
+        var one = "IMG_6651.jpg";
+        var two = "Pizza2.jpg";
+        if (img.src.match(two)){
+          img.src= one;
+          }
+        else{
+          img.src=two;
+        }
+
+
+      }
+    </script>
+  </head>
+  <body>
+      <img src="Pizza2.jpg" id="pic"/>
+    <button id="btn" onclick="myFunctIon()" >Click me!</button>
+
+  </body>
+</html>
