@@ -1,5 +1,12 @@
+h1 {
+  font-family: sans-serif;;
+  color: white;
+  text-align: center;
+}
+
+
 p {
-  color: yellow;
+  color: white;
   text-align: center;
 }
 body{
