@@ -14,7 +14,7 @@ body{
   <style>
   /* Full-width input fields */
   input[type=text], input[type=password] {
-      width: 75%;
+      width: 70%;
       padding: 12px 20px;
       margin: 8px 0;
       display: inline-block;
@@ -30,7 +30,7 @@ body{
       margin: 8px 0;
       border: none;
       cursor: pointer;
-      width: 75%;
+      width: 70%;
   }
 
   /* Extra styles for the cancel button */
