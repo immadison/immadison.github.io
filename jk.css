@@ -1,5 +1,26 @@
 
 
+.carousel-inner img {
+  -webkit-filter:grayscale(90%);
+  filter: grayscale(90%);/*all black and white*/
+  width: 100%; /* Set width to 100% */
+   margin: auto;
+}
+
+.carousel-caption h3 {
+   color: #fff !important;
+}
+
+@media (max-width: 600px) {
+   .carousel-caption {
+       display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+   }
+
+}
+
+
+
+
   .container {
     padding:80px 120px;
   }
