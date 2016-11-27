@@ -2,7 +2,6 @@
 
 .carousel-inner img {
   -webkit-filter:grayscale(90%);
-  filter: grayscale(90%);/*all black and white*/
   width: 100%; /* Set width to 100% */
    margin: auto;
 }
